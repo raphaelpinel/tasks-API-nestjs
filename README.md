@@ -4,7 +4,7 @@
 
 ## Description
 
-A tasks API to explore the Nest.js framework [Nest](https://github.com/nestjs/nest).
+A tasks management API with basic CRUD operations, authentication with JWT and database persistence with PostGres and TypeORM to explore the [Nest.js framework](https://github.com/nestjs/nest).
 Nest.js is a Node.js framework that uses TypeScript.
 ## Installation
 
